@@ -9,6 +9,4 @@ public class BookFilter
     public static  FilterF Filter
         => async (dataSource, phrase)
         => (await dataSource()).Where(b => b.Title.Contains(phrase, StringComparison.OrdinalIgnoreCase));
-    
-    
 }

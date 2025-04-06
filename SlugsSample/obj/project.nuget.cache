@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IP2bukwWjIw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riahi\\RiderProjects\\FPSample\\SlugsSample\\SlugsSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riahi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\riahi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512"
+  ],
+  "logs": []
+}
